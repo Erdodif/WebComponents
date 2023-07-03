@@ -12,7 +12,7 @@ A cikk megértésében a `HTML/CSS/JS` alapvető ismerete és az OOP irányelvei
 
 ## Mik is a Webkomponensek?
 
-A `html custom element` (_lejjebb csak webkomponensek_) egy `API`, ami lehetőséget ad arra, hogy bármely létező `HTML` elemet alapul véve új `HTML` számára értelmezhető elemet hozhassunk létre.
+A `html custom element` (_lejjebb csak webkomponensek_) egy `API`, ami lehetőséget ad arra, hogy bármely létező `HTML` elemet alapul véve új, a `HTML` szerint értelmezhető elemet hozhassunk létre.
 
 A felhasználáshoz a következőket kell elvégezni:
 
