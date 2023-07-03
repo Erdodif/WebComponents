@@ -327,11 +327,11 @@ Tekinktsünk a webkomponensekre úgy, mint egy okos csomagolásra a már jól is
 
 ### Mi lesz a keretrendszerek sorsa?
 
-Az állapotkezelés azért nem a leg kézenfekvőbb a webkomponnesek esetébek, céljuk nem is a sablon alapú keretrendszerek (_Vue, React, Svelte_) leváltása. A webkomponensek felhasználása inkább vizivig editorok reneszánszára, illetve beágyazások megkönnyítésére szolgál.
+Az állapotkezelés azért nem a leg kézenfekvőbb a webkomponnesek esetébek, céljuk nem is a sablon alapú keretrendszerek (_Vue, React, Svelte_) leváltása. A webkomponensek felhasználása inkább WYSIWYG editorok reneszánszára, illetve beágyazások megkönnyítésére szolgál.
 
 > Példának hoznám az egyik legismertebb animációs platformot, a __LottieFiles__-t, ami a `<lottie-player>` elemmel ad lehetőséget a kis méretű, vektoros animációinak beágyazására.
 
-Legjobban az Objektumevű programozás egyszeres-felelősség elvével tudom hasonlítani. A webkomponens lényege, hogy egy dolgot csináljon, és azt jól csinálja. A keretrendszerek jellemzően komplex állapotok kezelésére hivatottak, amit a webkomponnesekkel már csak nehezen lehetne megvalósítani.
+Legjobban az Objektumelvű programozás egyszeres-felelősség elvével tudom hasonlítani. A webkomponens lényege, hogy egy dolgot csináljon, és azt jól csinálja. A keretrendszerek jellemzően komplex állapotok kezelésére hivatottak, amit a webkomponnesekkel már csak nehezen lehetne megvalósítani.
 
 ---
 
